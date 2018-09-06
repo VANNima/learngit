@@ -5,4 +5,8 @@ Git tracks changes of files.
 Creating a new branch is quick.
 ohoh
 oko
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+okaokaokao呢哇
+>>>>>>> feature1
